@@ -1,10 +1,14 @@
 # 🔑 Cẩm Nang Toàn Diện Về GitHub Personal Access Token (PAT)
 
 <p align="center">
+  <a href="README.md"><b>🇻🇳 Tiếng Việt</b></a> &nbsp;|&nbsp; 
+  <a href="README_EN.md"><b>🇺🇸 English</b></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/GitHub-Personal%20Access%20Token-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub PAT">
   <img src="https://img.shields.io/badge/Security-Best%20Practices-success?style=for-the-badge&logo=shield" alt="Security">
-  <img src="https://img.shields.io/badge/Level-Cơ%20Bản%20đến%20Nâng%20Cao-blue?style=for-the-badge" alt="Level">
-  <img src="https://img.shields.io/badge/Language-Tiếng%20Việt-red?style=for-the-badge" alt="Vietnamese">
+  <img src="https://img.shields.io/badge/Level-All%20Levels-blue?style=for-the-badge" alt="Level">
   <img src="https://img.shields.io/badge/License-MIT-green?style=for-the-badge" alt="License">
 </p>
 
