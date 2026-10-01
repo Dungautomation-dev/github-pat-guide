@@ -1,0 +1,14 @@
+# Environment and Secret files
+.env
+.env.*
+*.token
+*.key
+*.secret
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# VS Code & JetBrains
+.vscode/
+.idea/
