@@ -274,3 +274,9 @@ Trong thư mục [`scripts/`](file:///scripts/), repo này cung cấp sẵn các
 <p align="center">
   ⭐ <em>Nếu tài liệu này hữu ích với bạn, đừng quên bấm Star cho repository nhé!</em> ⭐
 </p>
+
+---
+
+## Stars ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dungautomation-dev/github-pat-guide&type=Date)](https://star-history.com/#Dungautomation-dev/github-pat-guide&Date)

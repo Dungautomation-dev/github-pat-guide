@@ -134,3 +134,9 @@ git remote set-url origin https://<TOKEN>@github.com/<username>/<repo>.git
 - **Author**: [Dung Automation](https://github.com/Dungauto)
 - **Email**: dungautomation@gmail.com
 - **License**: Released under the [MIT License](LICENSE).
+
+---
+
+## Stars ⭐
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Dungautomation-dev/github-pat-guide&type=Date)](https://star-history.com/#Dungautomation-dev/github-pat-guide&Date)
